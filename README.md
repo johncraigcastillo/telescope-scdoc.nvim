@@ -2,12 +2,15 @@
 
 A SuperCollider documentation picker.
 
+This fork adds support for SuperCollider 3.14's `docmap.js` documentation index. Node.js is used to parse the generated documentation map.
+
 ![telescope-scdoc.nvim](https://user-images.githubusercontent.com/672917/147115784-a39df09f-d4a0-4f89-900d-12c71cff0db2.png)
 
 ## Requirements
 
 * scnvim
 * telescope
+* Node.js
 
 ## Installation
 
